@@ -1,0 +1,7 @@
+scrapper.py: /Users/anshpethani/Desktop/sem\ 6/Big\ Data/DA/spark-3.5.1-bin-hadoop3/bin/spark-submit --packages org.apache.spark:spark-streaming_2.11:2.4.8 
+/Users/anshpethani/Desktop/sem\ 6/Big\ Data/DA/Simple/scrapper.py
+
+test.py: /Users/anshpethani/Desktop/sem\ 6/Big\ Data/DA/spark-3.5.1-bin-hadoop3/bin/spark-submit --packages org.apache.spark:spark-streaming_2.11:2.4.8 /Users/anshpethani/Desktop/sem\ 6/Big\ Data/DA/Simple/test.py
+
+
+run command: <path to 'spark-3.5.1-bin-hadoop3'>bin/spark-submit --packages org.apache.spark:spark-streaming_2.11:2.4.8 <path to 'test.py>
